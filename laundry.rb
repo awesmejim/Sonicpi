@@ -27,8 +27,8 @@ end
   dry(:ambi_choir)
 end
 wear(90.5)
-wash(70)
-dry(70)
+wash(80)
+dry(15)
 
 
 
